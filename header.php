@@ -21,5 +21,5 @@ echo $title;
 <body>
 
 <h1>Välkommen</h1>
-<a href="index.php">Start</a> | <a href="about.php">About</a>
+<a href="index.php">Start</a> | <a href="about.php">About</a> | <a href="login.php">Login</a>
 <hr />
